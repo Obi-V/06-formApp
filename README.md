@@ -43,6 +43,8 @@ En resumen, los formularios reactivos en Angular ofrecen una mayor flexibilidad,
 
 Esta serie de aplicaciones son para experimentar el funcionamiento de Angular, pero recomiendo complementar con más información y videos que podreis encontrar gratis en Youtube.
 
-Una vez que la aplicación esté en funcionamiento, puedes explorar las diferentes secciones y temas para aprender sobre Angular. Cada tema proporciona explicaciones, fragmentos de código y ejercicios para ayudarte a comprender mejor los conceptos de Angular. ¡Diviértete aprendiendo!
+Una vez que la aplicación esté en funcionamiento, podrás explorar la lista de países, buscar países específicos y seleccionarlos para ver más detalles. Los detalles de cada país se cargarán de forma diferida y solo cuando se soliciten, mejorando así el rendimiento de la aplicación.
+
+¡Disfruta explorando los países con esta aplicación optimizada mediante lazy loading!
 
 ### Texto creado con la ayuda chatGTP
