@@ -47,4 +47,10 @@ Una vez que la aplicación esté en funcionamiento, podrás explorar la lista de
 
 ¡Disfruta explorando los países con esta aplicación optimizada mediante lazy loading!
 
-### Texto creado con la ayuda chatGTP
+## Curso
+Todas estas aplicaciones son sacadas del curso de Fernando herrera [Angular: De cero a experto](https://www.udemy.com/course/angular-fernando-herrera/), recomiendo comprarlo ya que en el curso se explica todo muchísimo mejor y más detalladamente, además el curso se actualiza cada poco tiempo.  
+
+Muy buen curso, lo recomiendo siempre que tengas tiempo.
+
+
+### Texto creado con la ayuda de chatGTP
