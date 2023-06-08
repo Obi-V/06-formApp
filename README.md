@@ -33,8 +33,8 @@ En resumen, los formularios reactivos en Angular ofrecen una mayor flexibilidad,
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/Obi-V/04-pipesApp.git`
-2. Navega hasta el directorio del proyecto: `cd 04-pipesApp.git`(Tu ruta)
+1. Clona el repositorio: `git clone https://github.com/Obi-V/06-formApp.git`
+2. Navega hasta el directorio del proyecto: `cd 06-formApp.git`(Tu ruta)
 3. Instala las dependencias: `npm install`
 4. Inicia la aplicación: `ng serve` o `ng serve -o`(Se abre automáticamente)
 5. Abre tu navegador y visita: `http://localhost:4200`
