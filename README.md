@@ -1,6 +1,6 @@
-# Aplicación de Exploración de Formularios Reactivos
+# Aplicación Formularios Reactivos
 
-¡Bienvenido a la aplicación de Exploración de Formularios Reactivos en Angular! Esta aplicación es un ejemplo de cómo utilizar los formularios reactivos de Angular para crear y gestionar formularios dinámicos y validados.
+¡Bienvenido a la aplicación de Formularios Reactivos en Angular! Esta aplicación es un ejemplo de cómo utilizar los formularios reactivos de Angular para crear y gestionar formularios dinámicos y validados.
 
 ## Características
 
